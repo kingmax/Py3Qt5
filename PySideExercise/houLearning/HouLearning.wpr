@@ -1,0 +1,10 @@
+#!wing
+#!version=5.0
+##################################################################
+# Wing IDE project file                                          #
+##################################################################
+[project attributes]
+proj.file-list = [loc('createBox.py'),
+                  loc('hou001.py'),
+                  loc('rpcTesting.py')]
+proj.file-type = 'shared'
