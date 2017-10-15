@@ -1,0 +1,9 @@
+#!wing
+#!version=6.0
+##################################################################
+# Wing IDE project file                                          #
+##################################################################
+[project attributes]
+proj.file-list = [loc('mvc_01_readOnlyModel.py'),
+                  loc('mvc_02_editModel.py')]
+proj.file-type = 'shared'
